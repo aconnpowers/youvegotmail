@@ -1,0 +1,46 @@
+---
+title: "Untitled"
+author: "Conn-Powers"
+date: "4/17/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+source("scripts/libraries.R")
+library(xtable)
+
+match_data <- read.csv("data/ACP_final_data.csv")
+match_data <- match_data %>% 
+  select(-c(1)) 
+
+tab <- match_data %>%
+  group_by(ballot_mailed_2020) %>%
+  summarise_all(list(mean = mean), na.rm = TRUE) %>%
+  select(-1) %>% # Don't include abducation
+  t() %>% `colnames<-`(c("abducted = 0", "abducted = 1"))
+
+print(xtable(tab, 
+             caption="Balance table, full sample"), 
+      "html", include.rownames=TRUE, caption.placement='top',
+      html.table.attributes='align="left"')
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
