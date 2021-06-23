@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1623675050489.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2806498679",
+    "id" : "29E912BF",
+    "lastKnownWriteTime" : 1623675053,
+    "last_content_update" : 1623675053522,
+    "path" : "~/Desktop/Thesis/Thesis_repository/scripts/graveyard.R",
+    "project_path" : "scripts/graveyard.R",
+    "properties" : {
+        "cursorPosition" : "275,0",
+        "scrollLine" : "258",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

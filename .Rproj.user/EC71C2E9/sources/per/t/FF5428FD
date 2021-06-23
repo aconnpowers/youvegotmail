@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1623658388193.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1096795768",
+    "id" : "FF5428FD",
+    "lastKnownWriteTime" : 1623661620,
+    "last_content_update" : 1623661620021,
+    "path" : "~/Desktop/Thesis/Thesis_repository/scripts/libraries.R",
+    "project_path" : "scripts/libraries.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1621608406650.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "963135035",
+    "id" : "E974EB54",
+    "lastKnownWriteTime" : 1623675081,
+    "last_content_update" : 1623675081165,
+    "path" : "~/Desktop/Thesis/Thesis_repository/scripts/matching.R",
+    "project_path" : "scripts/matching.R",
+    "properties" : {
+        "cursorPosition" : "122,0",
+        "scrollLine" : "108"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

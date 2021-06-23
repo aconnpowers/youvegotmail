@@ -2,15 +2,14 @@
 Alabama,0,0,0,0
 Alaska,0,0,0,0
 Arizona,0,0,0,0
-Arkansas,0,0,0,1
-California,0,1,0,0
+Arkansas,0,0,0,0
 Colorado,1,0,0,0
-Connecticut,0,1,0,0
-Delaware,0,0,1,1
+Connecticut,0,0,1,0
+Delaware,0,0,1,0
 District of Columbia,0,1,0,0
 Florida,0,0,0,0
 Georgia,0,0,0,0
-Hawaii,1,0,0,0
+Hawaii,0,1,0,0
 Idaho,0,0,0,0
 Illinois,0,0,1,0
 Indiana,0,0,0,1
@@ -20,20 +19,19 @@ Kentucky,0,0,0,0
 Louisiana,0,0,0,1
 Maine,0,0,0,0
 Maryland,0,0,1,0
-Massachusetts,0,0,0,0
+Massachusetts,0,0,1,0
 Michigan,0,0,1,0
 Minnesota,0,0,0,0
 Mississippi,0,0,0,1
 Missouri,0,0,0,1
-Nebraska,0,0,1,0
 Nevada,0,1,0,0
-New Hampshire,0,0,0,1
+New Hampshire,0,0,0,0
 New Jersey,0,1,0,0
 New Mexico,0,0,0,0
-New York,0,0,0,1
+New York,0,0,0,0
 North Carolina,0,0,0,0
 North Dakota,0,0,0,0
-Ohio,0,0,0,0
+Ohio,0,0,1,0
 Oklahoma,0,0,0,0
 Oregon,1,0,0,0
 Pennsylvania,0,0,0,0
@@ -46,6 +44,6 @@ Utah,1,0,0,0
 Vermont,0,1,0,0
 Virginia,0,0,0,0
 Washington,1,0,0,0
-West Virginia,0,0,0,1
+West Virginia,0,0,0,0
 Wisconsin,0,0,1,0
 Wyoming,0,0,0,0
